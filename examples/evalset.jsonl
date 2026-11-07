@@ -1,0 +1,8 @@
+{"id": "refund-window", "question": "How long do I have to request a refund on a monthly plan?", "expected_keywords": ["14 days", "full refund"], "relevant_docs": ["refund-policy.md"]}
+{"id": "refund-usage", "question": "Are usage-based charges like data egress refundable?", "expected_keywords": ["never refundable", "egress"], "relevant_docs": ["refund-policy.md"]}
+{"id": "sla-uptime", "question": "What monthly uptime does Northwind Cloud guarantee for managed databases?", "expected_keywords": ["99.95%"], "relevant_docs": ["sla.md"]}
+{"id": "sla-credits", "question": "What service credit do I get if uptime falls below 99.0%?", "expected_keywords": ["25%", "credit"], "relevant_docs": ["sla.md"]}
+{"id": "encryption", "question": "How is customer data encrypted at rest?", "expected_keywords": ["AES-256"], "relevant_docs": ["security.md"]}
+{"id": "api-tokens", "question": "When do API tokens expire?", "expected_keywords": ["90 days"], "relevant_docs": ["security.md"]}
+{"id": "free-trial", "question": "How long is the free trial and does it need a credit card?", "expected_keywords": ["30-day", "no credit card"], "relevant_docs": ["onboarding.md"]}
+{"id": "sev1-response", "question": "What is the first response time for critical severity 1 tickets on Premium support?", "expected_keywords": ["15 minutes"], "relevant_docs": ["support.md"]}
